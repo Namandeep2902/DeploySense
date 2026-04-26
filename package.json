@@ -1,0 +1,24 @@
+{
+  "name": "predeploy",
+  "version": "2.0.0",
+  "description": "Pre-Deployment Intelligence Platform (PDIP)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "code-analysis",
+    "pre-deployment",
+    "risk-engine"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.5.0",
+    "express": "^5.2.1",
+    "mongoose": "^8.14.2"
+  }
+}
