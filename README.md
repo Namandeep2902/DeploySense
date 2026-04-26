@@ -1,6 +1,6 @@
-# 🚀 Pre-Deployment Intelligence Platform (PDIP)
+# 🚀 Pre-Deployment Intelligence Platform (DeploySense)
 
-**PDIP** is an intelligent analysis system that analyzes code before deployment, detects risky patterns, predicts system impact, and provides explainable optimization suggestions.
+**DeploySense** is an intelligent analysis system that analyzes code before deployment, detects risky patterns, predicts system impact, and provides explainable optimization suggestions.
 
 ## 🌟 Features
 
