@@ -26,10 +26,6 @@ DeploySense was built to identify these risks early in the development cycle and
 
 ### ⚠️ Risk Assessment
 - Assigns weighted scores to detected issues
-- Classifies overall risk as:
-  - Low
-  - Medium
-  - High
 
 ### 📊 System Simulation (Heuristic-based)
 - Estimates system behavior under concurrent user load
